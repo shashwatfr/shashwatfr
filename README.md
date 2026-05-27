@@ -2,7 +2,7 @@
 
 **Data Analyst | AI/ML Enthusiast**
 
-📍 India &nbsp;|&nbsp; 📧 wshashwatgoswami@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashwat-goswami)
+📍 India &nbsp;|&nbsp; 📧 wshashwatgoswami@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashwat-goswami-89aaa2308/)
 
 ---
 
