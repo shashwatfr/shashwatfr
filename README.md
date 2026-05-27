@@ -84,18 +84,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatfr&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatfr&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Currently
 
-- 📚 Preparing for **GATE DA 2027** — DSA, Linear Algebra, Probability & Stats, ML
 - 🔍 Open to **Data Analyst / Data Engineer / AI Intern** opportunities (Remote or NCR)
-- 💪 Building consistency — one day at a time
+- 💪 Building new projects in data analysis and AI workflows
+- 📖 Deepening knowledge in ML, Statistics, and AI systems
 
 ---
 
