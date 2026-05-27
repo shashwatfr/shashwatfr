@@ -2,7 +2,7 @@
 
 **Data Analyst | AI/ML Enthusiast**
 
-📍 India &nbsp;|&nbsp; 📧 wshashwatgoswami@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashwat-goswami-89aaa2308/)
+📍 India &nbsp;|&nbsp; 📧 wshashwatgoswami@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-goswami-89aaa2308/)
 
 ---
 
@@ -12,7 +12,6 @@
 - 💼 Ex AI/Analytics Intern at **Airtel Digital** — built a RAG-based chatbot using LlamaIndex, Qdrant & LLaMA 3.1 for natural language querying of supply chain data
 - 📊 Passionate about turning raw data into actionable business insights
 - 🤖 Hands-on experience with LLMs, vector databases, ETL pipelines, and predictive modeling
-- 🎯 Currently preparing for **GATE DA 2027** — targeting M.Tech AI/DS at IITs
 
 ---
 
