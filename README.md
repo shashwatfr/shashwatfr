@@ -1,6 +1,6 @@
 # Hi, I'm Shashwat Goswami 👋
 
-**Data Analyst | AI/ML Enthusiast | GATE DA 2027 Aspirant**
+**Data Analyst | AI/ML Enthusiast**
 
 📍 India &nbsp;|&nbsp; 📧 wshashwatgoswami@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashwat-goswami)
 
